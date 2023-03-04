@@ -18,7 +18,7 @@
 
 ### Links
 
-- See what the calculator looks like and use it [here](https://onanuviie.github.io/Wordle-Clone/)
+- See what the game looks like and play it [here](https://onanuviie.github.io/Wordle-Clone/)
 
 ## My process
 
