@@ -117,8 +117,13 @@ body {
     .game-container {
         width: 100%;
     }
+
     .title-container{
         width: 250px;
+    }
+
+    .message-container {
+        margin: 3px auto;
     }
 
     .tile-container {
