@@ -116,12 +116,16 @@ body {
         justify-content: center
     }
 
+    .game-container {
+        height: 568px;
+    }
+
     .title-container{
         width: 250px;
     }
 
     .message-container {
-        margin: 0 auto;
+        margin: 5px auto;
     }
 
     .tile-container {
