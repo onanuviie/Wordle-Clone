@@ -112,10 +112,8 @@ body {
 @media (max-width: 430px) {
     body {
         overflow-x: hidden;
-    }
-
-    .game-container {
-        width: 100%;
+        display: flex;
+        justify-content: center
     }
 
     .title-container{
@@ -123,13 +121,13 @@ body {
     }
 
     .message-container {
-        margin: 3px auto;
+        margin: 0 auto;
     }
 
     .tile-container {
         width: 220px;
-        height: 278px;
-        margin-bottom: 20px;
+        height: 330px;
+        margin-bottom: 0;
     }
     
     .message-container {
