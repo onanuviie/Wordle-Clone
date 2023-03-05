@@ -108,3 +108,46 @@ body {
     background-color: #538d4e !important;
     border:none !important;
 }
+
+@media (max-width: 430px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .game-container {
+        width: 100%;
+    }
+    .title-container{
+        width: 250px;
+    }
+
+    .tile-container {
+        width: 220px;
+        height: 290px;
+        margin-bottom: 20px;
+    }
+    
+    .message-container {
+        margin-bottom: 10px;
+    }
+
+    .key-container {
+        width: 280px;
+    }
+
+    .key-container button {
+        width: 18px;
+        height: 30px;
+        font-size: 0.6rem;
+    }
+
+    .key-container button:nth-child(11) {
+        margin-left: 20px;
+    }
+    
+    .key-container button:nth-child(20),
+    .key-container button:nth-child(28) {
+        width: 40px;
+        margin: 4px 2px 4px 1px;
+    }
+}

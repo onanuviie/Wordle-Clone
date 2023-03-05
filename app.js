@@ -2319,8 +2319,9 @@ const words = [
     "rural",
     "shave"
   ]
+  
 let wordle = words[Math.floor(Math.random()*words.length)].toUpperCase()
-console.log(wordle)
+
 const keys = [
     'Q',
     'W',
